@@ -11,7 +11,7 @@ GibJohn Tutoring currently provides customers with:
 
 • access to learning resources
 
-• support to develop understanding in different subjects.
+• support to develop understanding in different subjects
 
 
 
@@ -22,7 +22,7 @@ The client (owners of GibJohn Tutoring) would like to develop a digital solution
 
 • provide access to digital content to encourage wider learning
 
-• support assessment and monitoring of learner progress.
+• support assessment and monitoring of learner progress
 
 
 
@@ -37,7 +37,7 @@ suggested by the client are:
 
 • a learning reward system
 
-• gamified learning.
+• gamified learning
 
 
 
