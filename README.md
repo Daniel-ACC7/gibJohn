@@ -8,9 +8,7 @@ a digital solution for GibJohn Tutoring.
 GibJohn Tutoring currently provides customers with:
 
 • face-to-face tutoring sessions
-
 • access to learning resources
-
 • support to develop understanding in different subjects.
 
 
